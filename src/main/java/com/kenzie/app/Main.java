@@ -43,7 +43,6 @@ public class Main {
                     int randomQuestion = (int) Math.floor(Math.random() * 100) + 1;
 
                     CluesDTO clues = allClues.getClues().get(randomQuestion);
-//                    CluesDTO clues = allClues.getClues().get(17);
                     System.out.println(clues.toString());
 
                     // Sets the API answer to the manipulated answer
