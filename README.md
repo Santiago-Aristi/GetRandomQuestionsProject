@@ -1,2 +1,0 @@
-# Kenzie Java Project - Capstone
-
